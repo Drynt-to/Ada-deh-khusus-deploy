@@ -1,6 +1,6 @@
 # Virly VC's Portfolio
 
-This is a personal project I made as a surprise for someone's birthday, using her design portfolio and turning it into a website-based portfolio. This project will always be updated when I have new ideas to include, but can already be run as it is right now.
+This is a personal project I made as a surprise for someone's birthday, using her design portfolio and turning it into a website-based portfolio. This project is discontinued due to responsive issues, soon will be remade with new framework
 
 ---
 
